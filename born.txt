@@ -1,0 +1,1 @@
+Archivo creado para poder hacer un commit y así la terminal nos muestre la rama en la que estamos parados.
